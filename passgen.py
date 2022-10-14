@@ -1,4 +1,4 @@
-#python 3.8.8
+#python 3.10.7
 #https://github.com/mehmet-tezel
 
 import getopt, sys, os
